@@ -1,0 +1,2 @@
+"use strict";(globalThis.__LOADABLE_LOADED_CHUNKS__=globalThis.__LOADABLE_LOADED_CHUNKS__||[]).push([[5032],{142827:(_,s,l)=>{l.r(s),l.d(s,{default:()=>a});l(87363);var A=l(448701),D=l(46169),L=l(481040);const a=_=>(0,L.jsx)(D.Z,null,(0,L.jsx)(A.Z,_))}}]);
+//# sourceMappingURL=components-AdUnitsMainColumn.yji-21b8eb91f837a4070021.chunk.js.map
